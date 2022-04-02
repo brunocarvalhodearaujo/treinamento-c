@@ -16,13 +16,13 @@ Elabore um programa que calcule o consumo de combustível de um carro. É necess
 - A distância que será percorrida (em Km);
 - E o valor do litro de combustível (em Reais);
 
-## O programa deverá exibir:
+### O programa deverá exibir:
 
 - Quantos litros de combustível serão necessários para a viagem;
 - Quantos reabastecimentos serão necessários (total de tanques cheios);
 - O valor total gasto com o combustível;
 
-## Deverá ser apresentado:
+### Deverá ser apresentado:
 
 - Pseudocódigo;
 - Fluxograma;
